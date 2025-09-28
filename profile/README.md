@@ -9,6 +9,9 @@
   <p align="center">
     Here are some of my open-source projects and personal sites - welcome to explore!
   </p>
+  <p align="center">
+    <picture>
+      <code><img height="20" src="https://komarev.com/ghpvc/?username=cdlabsink"></code>
+    </picture>
+  </p>
 </p>
-
-<div><img height="20" src="https://komarev.com/ghpvc/?username=cdlabsink"></div>
